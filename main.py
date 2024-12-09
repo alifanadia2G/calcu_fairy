@@ -38,5 +38,3 @@ def main():
             else:
                 st.error("Kesalahan: Pembagian dengan nol tidak diperbolehkan.")
     
-if __name__ == "__main__":
-    main()
